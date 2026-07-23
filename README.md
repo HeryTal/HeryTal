@@ -1,8 +1,52 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=HeryTal&title=RAHERINIRINA%20Jocelyn&subtitle=I'am%20what%20I'am&theme=dark"><img alt="HeryTal hero" src="https://coolreadme.xyz/api/hero-banner?user=HeryTal&title=RAHERINIRINA%20Jocelyn&subtitle=I'am%20what%20I'am&theme=light"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=HeryTal&lines=I'am%20what%20I'am%7CBased%20in%20Madagascar%7Cgithub.com%2FHeryTal&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=HeryTal&lines=I'am%20what%20I'am%7CBased%20in%20Madagascar%7Cgithub.com%2FHeryTal&theme=light"></picture>
-![HeryTal cinematic](https://coolreadme.xyz/api/cinematic?user=HeryTal&status=I'AM%20WHAT%20I'AM&focus=Building%20an%20open-source%20project)
-Featured projects
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/projects-gallery?user=HeryTal&projects=CreditRisk-AI%7C%7CJupyter%2BNotebook%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FCreditRisk-AI%3B%3Bprocess_iq%7C%7C%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2Fprocess_iq%3B%3BFITIAVANA-WEBSITE%7C%F0%9F%8C%8D%2BFitiavana%2B-%2BSite%2Bcaritative%2Bpour%2BIvandrika%2BFarafangana%2B(Madagascar).%2BD%C3%A9velopp%C3%A9%2Bavec%2BRe%E2%80%A6%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FFITIAVANA-WEBSITE%3B%3BChess-Inscription%7C%E2%99%9F%EF%B8%8F%2BChess%2BTournament%2BRegistration%2BApp%2BA%2Bmodern%2Bweb%2Bapp%2Bto%2Bmanage%2Bchess%2Btournaments%3A%2B%F0%9F%93%85%2BVi%E2%80%A6%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FChess-Inscription%3B%3BHeryTal%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FHeryTal%3B%3BWorldCupScore%7C%7CTypeScript%7C0%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FWorldCupScore&theme=dark"><img alt="Featured projects" src="https://coolreadme.xyz/api/projects-gallery?user=HeryTal&projects=CreditRisk-AI%7C%7CJupyter%2BNotebook%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FCreditRisk-AI%3B%3Bprocess_iq%7C%7C%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2Fprocess_iq%3B%3BFITIAVANA-WEBSITE%7C%F0%9F%8C%8D%2BFitiavana%2B-%2BSite%2Bcaritative%2Bpour%2BIvandrika%2BFarafangana%2B(Madagascar).%2BD%C3%A9velopp%C3%A9%2Bavec%2BRe%E2%80%A6%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FFITIAVANA-WEBSITE%3B%3BChess-Inscription%7C%E2%99%9F%EF%B8%8F%2BChess%2BTournament%2BRegistration%2BApp%2BA%2Bmodern%2Bweb%2Bapp%2Bto%2Bmanage%2Bchess%2Btournaments%3A%2B%F0%9F%93%85%2BVi%E2%80%A6%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FChess-Inscription%3B%3BHeryTal%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FHeryTal%3B%3BWorldCupScore%7C%7CTypeScript%7C0%7Chttps%3A%2F%2Fgithub.com%2FHeryTal%2FWorldCupScore&theme=light"></picture>
-Stats
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-<sub>Built with coolreadme.xyz — one-click GitHub README cards.</sub>
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
