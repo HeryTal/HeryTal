@@ -1,4 +1,6 @@
-![Linus Torvalds — Hacker](https://coolreadme.xyz/api/hacker?user=HeryTal&status=MERGED+v6.12&accent=%2300FF88)
+<p align="center">
+    <img alt="Linus Torvalds — Hacker" src="https://coolreadme.xyz/api/hacker?user=HeryTal&status=MERGED+v6.12&accent=%2300FF88">
+</p>
 
 <h4 data-importer="text" align="center">MES STACKS</h4>
 
