@@ -58,3 +58,6 @@
 <p align="center">
     <img alt="galaga contribution graph" src="peaky-blinders.gif">
 </p>
+<p align="center">
+    <img alt="galaga contribution graph" src="peaky-blinders.gif">
+</p>
