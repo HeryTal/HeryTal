@@ -53,8 +53,8 @@
     <img alt="galaga contribution graph" src="/galaga.svg">
 </picture>
 
-<h4 data-importer="text" align="center">"There no rest for me in this world, peraphs in the next"</h4>
+<h4 data-importer="text" align="center">"There is no rest for me in this world, peraphs in the next"</h4>
 
-<picture align="center">
-    <img alt="galaga contribution graph" src="/peaky blinders.gif">
-</picture>
+<p align="center">
+    <img alt="galaga contribution graph" src="peaky-blinders.gif">
+</p>
