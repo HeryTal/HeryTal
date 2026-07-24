@@ -36,9 +36,5 @@ MES STACKS:
 
 
 <picture>
-    <img alt="galaga contribution graph" src="/peaky blinders.gif">
-</picture>
-
-<picture>
     <img alt="galaga contribution graph" src="/galaga.svg">
 </picture>
